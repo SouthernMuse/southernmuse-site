@@ -2,8 +2,6 @@
 
 Southern Muse: an evolving archive of art, memory, and fragments, gathered over time.
 
-# Southern Muse
-
 This repository holds the working pieces behind the site — pages, images, and remnants of a long, ongoing creative life. Some of it is newly built. Some of it is being rediscovered, restored, or reassembled from much older work.
 
 Nothing here is final.
